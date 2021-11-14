@@ -4,7 +4,7 @@ import Sidebar from "./components/sidebar";
 import Introduction from "./components/introduction";
 import About from "./components/about";
 import Timeline from "./components/timeline";
-// import Contact from "./components/contact";
+import Projects from "./components/projects";
 
 class App extends Component {
   render() {
@@ -16,7 +16,7 @@ class App extends Component {
             <Introduction></Introduction>
             <About></About>
             <Timeline></Timeline>
-            {/* <Contact></Contact> */}
+            <Projects></Projects>
           </div>
         </div>
       </div>

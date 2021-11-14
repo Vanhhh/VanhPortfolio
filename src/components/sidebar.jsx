@@ -49,7 +49,7 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#contact" data-nav-section="contact">
+                    <a href="#projects" data-nav-section="projects">
                       Projects
                     </a>
                   </li>
@@ -109,8 +109,6 @@ export default class Sidebar extends Component {
               <p>
                 <small>
                   Made with <i className="icon-heart" aria-hidden="true" />
-                  {/* and{" "}
-                  <i className="icon-beer" aria-hidden="true"></i> */}
                   <br></br>
                   Thanks{" "}
                   <a
