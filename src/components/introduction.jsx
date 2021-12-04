@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 let styles = {
-  backgroundImage: "url(public/images/img_bg.JPG)",
+  backgroundImage: "url(images/img_bg.JPG)",
   opacity: "0.8",
 };
 export default class Introduction extends Component {
